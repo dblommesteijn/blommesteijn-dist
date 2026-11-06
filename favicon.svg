@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="Blommesteijn IT">
+  <!-- The B/.it badge cut down for icon sizes. The chamfered square is
+       the brand's one sharp gesture (design/brand/identity.md), so it is
+       kept exactly — same polygon as the header mark — while the ".it"
+       suffix is dropped and the B enlarged: at 16px the two-part lockup
+       turns to mush, where the chamfer plus a single letterform still
+       reads. The full lockup is used on apple-touch-icon.png, which is
+       rendered big enough to carry it.
+       Colors are baked, not tokenised: a favicon has no access to the
+       page's custom properties, and browser chrome provides its own
+       backdrop in either theme. --accent on --accent-ink. -->
+  <polygon fill="#46607A" points="0,0 40,0 40,40 14,40 0,27"/>
+  <text x="21.5" y="19" text-anchor="middle" dominant-baseline="central" fill="#F4F7F9"
+        font-family="'IBM Plex Sans Condensed','Arial Narrow','Helvetica Neue',Arial,sans-serif"
+        font-size="29" font-weight="700">B</text>
+</svg>
